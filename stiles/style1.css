@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(90deg, #c91313 0%, #000000 57%);
+}
+
+.nav-link{
+    color: aquamarine;
+}
+
+.navbar-nav .nav-link.active{
+    color: rgb(143, 142, 141);
+}
+
+.navbar-brand img{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+.navbar-toggler{
+    background-color: rgb(143, 142, 141);
+}
+
+.sidebar1{
+    color: white;
+
+}
+.a1{
+    color: #4b4545;
+    text-decoration: none;
+    cursor: pointer;
+}
+.a1:hover{
+    color: #222121;
+}
+
+.textfooter{
+    color: #f6f4f4;
+    margin-top: 20px;
+}
